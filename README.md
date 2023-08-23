@@ -48,7 +48,8 @@ To run the Simple Quiz App locally, follow these steps:
 - JavaScript
 
 ## Screenshots
-[Live Demo]()
+[Live Demo](https://quiz-app-ngww.vercel.app)
+
 ![Screenshot 1](screenshots/screenshot1.png)
 ![Screenshot 2](screenshots/screenshot2.png)
 ![Screenshot 3](screenshots/screenshot3.png)
